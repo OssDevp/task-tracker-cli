@@ -1,5 +1,5 @@
 # Task Tracker CLI
-Este proyecto es una herramienta de línea de comandos (CLI) para gestionar tareas, desarrollada como parte de los proyectos de roadmap.sh. Permite a los usuarios realizar un seguimiento de sus pendientes de manera eficiente directamente desde la terminal.
+Este proyecto es una herramienta de línea de comandos (CLI) para gestionar tareas, desarrollada como parte de los proyectos de [roadmap.sh.](https://roadmap.sh/projects/task-tracker) Permite a los usuarios realizar un seguimiento de sus pendientes de manera eficiente directamente desde la terminal.
 
 ## Funcionalidades
 - Persistencia de Datos: Utiliza el motor nativo de SQLite de Bun para un almacenamiento rápido y confiable.
